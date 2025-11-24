@@ -1,0 +1,10 @@
+pyttsx3
+SpeechRecognition
+pyaudio
+wikipedia
+requests
+opencv-python
+pyautogui
+pynput
+pillow
+datetime
